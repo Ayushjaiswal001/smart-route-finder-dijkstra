@@ -4,7 +4,8 @@ An interactive, animated web app that computes and **visualizes the shortest rou
 
 Built from scratch with **HTML5, CSS3, SVG and vanilla JavaScript (ES6+)** — no frameworks, no build step, no dependencies.
 
-> **🔗 Live demo:** https://ayushjaiswal001.github.io/smart-route-finder-dijkstra/
+> **🔗 Live demo:** https://statusmirror.me/smart-route-finder-dijkstra/
+> _(also reachable via https://ayushjaiswal001.github.io/smart-route-finder-dijkstra/, which redirects here)_
 
 ---
 
